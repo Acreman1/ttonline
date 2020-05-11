@@ -1,0 +1,11 @@
+*.pyc
+*~
+.vscode
+__pycache__
+.DS_Store
+env
+.env
+css
+js
+fonts
+node_modules

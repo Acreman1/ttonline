@@ -1,0 +1,1 @@
+default_app_copnfig = 'operation.apps.OperationConfig'
